@@ -8,7 +8,7 @@ const config = require('../config');
 const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
 const axios = require('axios');
 const fs = require("fs")
-const zara = require('../sayooj');
+const zara = require('../alinshan');
 
 if (config.WORKTYPE == 'private') {
 
