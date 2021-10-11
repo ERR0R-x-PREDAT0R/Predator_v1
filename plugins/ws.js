@@ -1,7 +1,5 @@
 /* Copyright © 2021 TERROR BOY.
-Licensed under the  GPL-3.0 License;
-you may not use this file except in compliance with the License.
-WHITE DEVIL ----»»» TERROR BOY
+   re-codded ----»»» alinshan
 */
 
 const Ktb = require('../events');
@@ -21,7 +19,7 @@ if (Config.WORKTYPE == 'private') {
 
     Ktb.addCommand({pattern: 'ws', fromMe: true, desc: Lang.WS}, (async (message, match) => {
         
-     var reply = await message.client.sendMessage(message.jid,'*꧁•⊹٭DOWNLOADING WHATSAPP STATUS٭⊹•꧂*', MessageType.text);
+     var reply = await message.client.sendMessage(message.jid,'*꧁٭Downloading Status٭꧂*', MessageType.text);
  
         var r_text = new Array ();
 
@@ -55,8 +53,8 @@ if (Config.WORKTYPE == 'private') {
         var respovideo = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
         
 // EXPORTING
-        reply = await message.client.sendMessage(message.jid,'*꧁•⊹٭𝚄𝙿𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝚂𝚃𝙰𝚃𝚄𝚂٭⊹•꧂*', MessageType.text);
-        await message.client.sendMessage(message.jid, Buffer(respovideo.data), MessageType.video, {mimetype: Mimetype.mp4, quoted: message.data, caption: '◄━━━━━━━⦁⦁ *ᴍᴀᴅᴇ ʙʏ Sayu💞Mwon* ⦁⦁━━━━━━━━►'})
+        reply = await message.client.sendMessage(message.jid,'*꧁٭Uploading Status٭꧂*', MessageType.text);
+        await message.client.sendMessage(message.jid, Buffer(respovideo.data), MessageType.video, {mimetype: Mimetype.mp4, quoted: message.data, caption: '◄━━━⦁⦁*PREDATOR_V1💞*⦁⦁━━━►'})
 
         
     }));
@@ -65,7 +63,7 @@ else if (Config.WORKTYPE == 'public') {
 
     Ktb.addCommand({pattern: 'ws', fromMe: false, desc: Lang.WS}, (async (message, match) => {
         
-      var reply = await message.client.sendMessage(message.jid,'*꧁•⊹٭DOWNLOADING WHATSAPP STATUS٭⊹•꧂*',MessageType.text);
+      var reply = await message.client.sendMessage(message.jid,'*꧁٭Downloading Status٭꧂*',MessageType.text);
  
      
         
@@ -101,8 +99,8 @@ else if (Config.WORKTYPE == 'public') {
         var respovideo = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
         
 // EXPORTING
-        reply = await message.client.sendMessage(message.jid,'*꧁•⊹٭𝚄𝙿𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝚂𝚃𝙰𝚃𝚄𝚂٭⊹•꧂*',MessageType.text);
-        await message.client.sendMessage(message.jid, Buffer(respovideo.data), MessageType.video, {mimetype: Mimetype.mp4, caption: '◄━━━━━━━⦁⦁ *Mᴀᴅᴇ ʙʏ Sayu💞Mwon* ⦁⦁━━━━━━━━►',})
+        reply = await message.client.sendMessage(message.jid,'*꧁٭Uploading Status٭꧂*',MessageType.text);
+        await message.client.sendMessage(message.jid, Buffer(respovideo.data), MessageType.video, {mimetype: Mimetype.mp4, caption: '◄━━━⦁⦁*PREDATOR_V1💞*⦁⦁━━━►',})
 
     }));
 
