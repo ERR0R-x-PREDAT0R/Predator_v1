@@ -9,19 +9,12 @@ const Lang = Language.getString('gitlink');
 Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message, match) => {
 
     var rashi = await axios.get(config.RASHI, { responseType: 'arraybuffer' })
-    await message.sendMessage(Buffer(rashi.data), MessageType.image, {quoted: message.data , thumbnail: fs.readFileSync('./image/r.jpg'), mimetype: Mimetype.png, caption: `*≈≈≈≈≈≈≈Angrybird bot Links ☟︎︎︎≈≈≈≈≈≈≈≈*
+    await message.sendMessage(Buffer(rashi.data), MessageType.image, {quoted: message.data , thumbnail: fs.readFileSync('./image/r.jpg'), mimetype: Mimetype.png, caption: `*≈≈≈≈PREDATOR_V1≈≈≈≈*
  
 
-        *Github link        _https://tinyurl.com/yhu58jt6*
+        *Github link   _https://github.com/ERR0R-x-PREDAT0R/Predator_v1*
  
 
-       *Audio commads-1     _https://tinyurl.com/yjlwwwes*
- 
- 
-       *Audio commads-2     _not info👻*
-  
-  
-      *Sticker commads      _https://tinyurl.com/yho37ybj*
 `}) 
 
 })); 
