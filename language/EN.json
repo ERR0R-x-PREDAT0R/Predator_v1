@@ -29,13 +29,13 @@
         },
         "admin": {
             "BAN_DESC": "Ban someone in the group. Reply to message or tag a person to use command.",
-            "IM_NOT_ADMIN": "ɴᴊᴀɴ ᴀᴅɪɴ ᴀʟʟᴀ ʙᴏss ᴀᴅᴍɪɴ ᴀᴋᴋɪʏᴀ ᴏʀᴜ ᴋᴀʏ ɴᴏᴋᴋ",
+            "IM_NOT_ADMIN": "ɴᴊᴀɴ ᴀᴅᴍɪɴ ᴀʟʟᴀ ᴇɴɴᴇ ᴀᴅᴍɪɴ ᴀᴀᴋᴋɪʏᴀʟ ᴏʀᴜ ᴋᴀʏ ɴᴏᴋᴋᴀ",
             "BANNED": "ʀᴇᴍᴏᴠᴇᴅ ꜰʀᴏᴍ ɢʀᴏᴜᴘ",
             "GIVE_ME_USER": "ɢɪᴠᴇ ᴍᴇ ᴀ ᴜꜱᴇʀ",
             "ADD_DESC": "Adds someone to the group.",
             "ADDED": "ᴀᴅᴅᴇᴅ ᴛᴏ ᴛʜᴇ ɢʀᴏᴜᴘ",
             "ALREADY_PROMOTED": "ʜᴇ ɪꜱ ᴀʟʀᴇᴀᴅʏ ᴀᴅᴍɪɴ ᴏᴏᴘᴢ",
-            "PROMOTED": ", ᴄᴏɴɢʀᴀᴛᴢ 🙉 ʏᴏᴜ ᴀʀᴇ ᴘʀᴏᴍᴏᴛᴇᴅ",
+            "PROMOTED": "Ninne Admin Aakki🙉",
             "PROMOTE_DESC": "Makes any person an admin.",
             "DEMOTE_DESC": "Takes the authority of any admin.",
             "ALREADY_NOT_ADMIN": "```How can I make someone admin who is already admin?```",
@@ -75,9 +75,9 @@
             "MUST_TEXT": "```Please reply to any message```"
         },
         "heroku": {
-            "RESTART_DESC": "Restart Angrybird",
-            "RESTART_MSG": "𝖱𝖾𝖺𝗌𝗍𝖺𝗋𝗍𝗂𝗇𝗀...😶‍🌫",
-            "SHUTDOWN_DESC": "Shutdown Angrybird",
+            "RESTART_DESC": "Restart Predator_v1",
+            "RESTART_MSG": "Restarting...😶‍🌫",
+            "SHUTDOWN_DESC": "Shutdown Predator_v1",
             "SHUTDOWN_MSG": "```Shutting down ⛔```",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "```Total Quota```",
@@ -167,7 +167,7 @@
             "REMOVEBG_DESC": "Removes the background of the photos.",
             "NEED_PHOTO": "*Give me a photo!*",
             "NO_API_KEY": "Owner not gived Api /n You can get it here: remove.bg.",
-            "RBGING": "𝖮𝗄 𝖻𝗈𝗌𝗌 𝗉𝗅𝖾𝖺𝗌𝖾 𝗐𝖺𝗂𝗍 𝖿𝖾𝗐 𝗆𝗂𝗇𝗎𝗍𝖾𝗌 ❤‍🩹"
+            "RBGING": "Mwonu Wait Cheyy Ippo Varum"
         },
         "scrapers": {
             "TRANSLATE_DESC": "It translates with Google Translate. You must reply any message.",
@@ -187,13 +187,13 @@
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song open your wings```",
             "NEED_TEXT_SING": "*Tell me which song to sing !*\n*Example:* ```.sing open your wings```",
             "NO_RESULT": "*I couldn't find anything :(*",
-            "DOWNLOADING_SONG": "𝘽𝙤𝙩 𝙨𝙚𝙖𝙧𝙘𝙝𝙞𝙣𝙜 𝙮𝙤𝙪𝙧 𝙨𝙤𝙣𝙜🔎🎶",
-            "DOWNLOADING_SING": "ɢᴇᴛ ʀᴇᴀᴅʏ ᴛᴏ ʜᴇᴀʀ ᴍᴇ ꜱɪɴɢ",
-            "UPLOADING_SONG": "𝘽𝙤𝙩 𝙪𝙥𝙡𝙤𝙖𝙙𝙞𝙣𝙜 𝙮𝙤𝙪𝙧 𝙨𝙤𝙣𝙜📲 𝙐𝙨𝙚🎧♥️",
+            "DOWNLOADING_SONG": "ꜱᴇᴀʀᴄʜɪɴɢ ʏᴏᴜʀ ꜱᴏɴɢ🔎🎶",
+            "DOWNLOADING_SING": "ɢᴇᴛ ʀᴇᴀᴅʏ ᴛᴏ ʜᴇᴀʀ",
+            "UPLOADING_SONG": "ᴜᴘʟᴏᴀᴅɪɴɢ ʏᴏᴜʀ ꜱᴏɴɢ📲ᴜꜱᴇ🎧♥️",
             "UPLOADING_SING": " ᴀʀᴇ ʏᴏᴜ ʀᴇᴀᴅʏ ᴛᴏ ʜᴇᴀʀ ",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=t1r_tmgQago```",
-            "DOWNLOADING_VIDEO": "𝖶𝖺𝗂𝗍 𝖻𝗋𝗈 𝘽𝙤𝙩 𝙨𝙚𝙖𝙧𝙘𝙝𝙞𝙣𝙜 𝙮𝙤𝙪𝙧 𝙫𝙞𝙙𝙚𝙤🔎🎥",
+            "DOWNLOADING_VIDEO": "ꜱᴇᴀʀᴄʜɪɴɢ ʏᴏᴜʀ ᴠɪᴅᴇᴏ🔎🎥",
             "UPLOADING_VIDEO": "Ok its on uploading 📂",
             "YT_DESC": "Ok wait i am on searching 🔍",
             "NEED_WORDS": "Oh bro please write anything u want 😶‍🌫",
@@ -205,9 +205,9 @@
             "IMG": "Uploading ```{}``` Pic number ```{} ```..."
         },
         "sticker": {
-            "STICKER_DESC": "It converts your replyed photo | video to sticker 🐦",
+            "STICKER_DESC": "It converts your replyed photo | video to sticker",
             "NEED_REPLY": "Reply to a pic | video 🥴",
-            "DOWNLOADING": "```Media downloading & converting to photo...```"
+            "DOWNLOADING": "𝖢𝗋𝖾𝖺𝗍𝗂𝗇𝗀 S𝗍𝗂𝖼𝗄𝖾𝗋 ⚜️"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
@@ -227,15 +227,15 @@
             "REPLY": "*Please Respond to User's Message to Report!*"
         },
         "updater": {
-            "UPDATER_DESC": "Checks the update for Angrybird.",
-            "UPDATE": "𝗇𝗈𝗍 𝗎𝗉𝖽𝖺𝗍𝖾𝗌 𝖺𝗋𝖾 𝗇𝗈𝗐 🙂",
-            "NEW_UPDATE": "𝖭𝖾𝗐 𝗎𝗉𝖽𝖺𝗍𝖾 𝖠𝗏𝖺𝗂𝗅𝖺𝖻𝗅𝖾 😋\n\n 𝖴𝗌𝖾 .update now 𝖿𝗈𝗋 𝗎𝗉𝖽𝖺𝗍𝖾 \n\n *𝖠𝗌𝗄 𝗌𝗎𝗉𝗉𝗈𝗋𝗍 𝗀𝗋𝗈𝗎𝗉 𝖻𝖾𝖿𝗈𝗋𝖾 𝗎𝗉𝖽𝖺𝗍𝗂𝗇𝗀 🐦* \n *https://chat.whatsapp.com/EwSIdQm4P3D3BpwkcqRRJB* \n\n 𝖴𝗉𝖽𝖺𝗍𝖾𝗌 𝖺𝗋𝖾 : \n\n ",
+            "UPDATER_DESC": "Checks the update for Predator_v1",
+            "UPDATE": "ᴘʀᴇᴅᴀᴛᴏʀ_ᴠ1 ɪs ᴜᴘ ᴛᴏ ᴅᴀᴛᴇ 🙂",
+            "NEW_UPDATE": "ɴᴇᴡ ᴜᴘᴅᴀᴛᴇs ᴀʀᴇ ᴀᴠᴀɪʟᴀʙʟᴇ 😋\n\n use *.update now* for update bot \n\n *ᴀsᴋ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ʙᴇꜰᴏʀᴇ ᴜᴘᴅᴀᴛɪɴɢ 🐤* \n *https://chat.whatsapp.com/DhxANnzMsk97ixPiGwsBxs* \n\n ʜᴇʀᴇ ɪs ᴛʜᴇ ᴜᴘᴅᴀᴛᴇs : \n\n ",
             "UPDATE_NOW_DESC": "It makes updates.",
-            "UPDATING": "𝖴𝗉𝖽𝖺𝗍𝗂𝗇𝗀 ⏱️",
+            "UPDATING": "Updating Predator_v1 Kurach Wait Cheyy Mwone ⏱️",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
-            "UPDATED": "𝖲𝗎𝖼𝖼𝖾𝗌𝗌𝖿𝗎𝗅𝗅𝗒 𝗎𝗉𝖽𝖺𝗍𝖾𝖽 🤩",
-            "UPDATED_LOCAL": "𝖲𝗎𝖼𝖼𝖾𝗌𝗌𝖿𝗎𝗅𝗅𝗒 𝗎𝗉𝖽𝖺𝗍𝖾𝖽 🤩",
-            "AFTER_UPDATE": "𝖱𝖾𝖺𝗌𝗍𝖺𝗋𝗍𝗂𝗇𝗀 ♻️",
+            "UPDATED": "ᴘʀᴇᴅᴀᴛᴏʀ_ᴠ1 sᴜᴄᴄᴇssꜰᴜʟʟʏ ᴜᴘᴅᴀᴛᴇᴅ 🤩",
+            "UPDATED_LOCAL": "ᴘʀᴇᴅᴀᴛᴏʀ_ᴠ1 sᴜᴄᴄᴇssꜰᴜʟʟʏ ᴜᴘᴅᴀᴛᴇᴅ 🤩",
+            "AFTER_UPDATE": "ʀᴇsᴛᴀʀᴛɪɴɢ ᴘʀᴇᴅᴀᴛᴏʀ_ᴠ1 ♻️",
             "IN_AF": "*Please check* ```HEROKU_APP_NAME``` *and* ```app name``` *They must be same.*\n*If these two values ​​are the same, please restore* ```HEROKU_API_KEY```\n\n_To access these settings, use Heroku >> App >> Settings >> Reavel Config Vars_\n_To renew your API key, follow these steps, Heroku >> Account >> API Key then replace old api key in config vars._"
         },
         "whois": {
@@ -285,8 +285,8 @@
             "MP4TOAUDİO_DESC": "```Converting to Audio..```",
             "MP4TOAUDİO_NEEDREPLY": "𝖮𝗁 𝖻𝗋𝗈 𝗒𝗈𝗎 𝗆𝗎𝗌𝗍 𝗋𝖾𝗉𝗅𝖺𝗒 𝗍𝗈 𝖺 𝗏𝗂𝖽𝖾𝗈 🥲",
             "MP4TOAUDİO": "```Converting to Audio..```",
-            "ANİM_STİCK": "𝖢𝗈𝗇𝗏𝖾𝗋𝗍𝗂𝗇𝗀 🐦",
-            "ANİMATE": "𝖢𝗈𝗇𝗏𝖾𝗋𝗍𝗂𝗇𝗀 🐦",
+            "ANİM_STİCK": "Converting",
+            "ANİMATE": "Converting",
             "STİCKER_DESC": "```Media downloading & converting to sticker...```",
             "STİCKER_NEEDREPLY": "𝖮𝗁 𝖻𝗋𝗈 𝗒𝗈𝗎 𝗆𝗎𝗌𝗍 𝗋𝖾𝗉𝗅𝖺𝗒 𝗍𝗈 𝖺 𝗌𝗍𝗂𝖼𝗄𝖾𝗋 🥲",
             "STİCKER": "```Media downloading & converting to sticker...```",
@@ -375,9 +375,9 @@
             "MUTE_OPEN": "```The group chat has unmuted!```"
         },
         "unvoice": {
-            "UV_DESC": "𝖢𝗈𝗇𝗏𝖾𝗋𝗍𝗂𝗇𝗀 🤌",
+            "UV_DESC": "Converting",
             "UV_REPLY": "𝖮𝗁 𝖻𝗋𝗈 𝗒𝗈𝗎 𝗆𝗎𝗌𝗍 𝗋𝖾𝗉𝗅𝖺𝗒 𝗍𝗈 𝖺 𝖺𝗎𝖽𝗂𝗈 🥲",
-            "UV_PROC": "𝖢𝗈𝗇𝗏𝖾𝗋𝗍𝗂𝗇𝗀 🤌"
+            "UV_PROC": "Converting"
         },
         "ffmpeg": {
             "FF_DESC": "Applies the desired ffmpeg filter to the video.\n⌨️ Example: .ffmpeg fade=in:0:30",
@@ -463,7 +463,7 @@
             "NOT_FOUND": "*Media Not Found!*"
         },
         "github": {
-            "GİTHUB_DESC": "Collects github information from the given username.\n⌨️ Example: .github afnanplk",
+            "GİTHUB_DESC": "Collects github information from the given username.\n⌨️ Example: .github ERR0R-x-PREDAT0R",
             "REPLY": "```You Need To Type Any Username!```",
             "NOT": "```User not found!```",
             "FOLLOWERS": "Followers:",
@@ -496,7 +496,7 @@
             "HUMI": "Humidity",
             "WIND": "Wind Speed",
             "CLOUD": "Cloud",
-            "NOT_FOUND": "```ingane oru sthalam indo..? enthayallum enit kandethaan ayeela. 😖```",
+            "NOT_FOUND": "```ingane oru sthalam indo..? enthayallum enit kandethaan aayilla. 😖```",
             "QUOTE_DESC": "Gives a random quote.",
             "NEED_LOCATIONA": "*Invalid Request*",
             "QUOTE": "Quote:",
@@ -581,7 +581,7 @@
             "M_AUT": "Music Author:"
         },
         "lyrics": {
-            "LY_DESC": "Angrybird will find the lyrics of the song.",
+            "LY_DESC": "Predator_v1 will find the lyrics of the song.",
             "NEED": "𝖸𝗈𝗎 𝗆𝗎𝗌𝗍 𝗋𝖾𝗉𝗅𝗒 𝖺 𝗌𝗈𝗇𝗀 𝗇𝖺𝗆𝖾 🥴",
             "SLY": "Lyrics:",
             "AUT": "Song Owner:",
