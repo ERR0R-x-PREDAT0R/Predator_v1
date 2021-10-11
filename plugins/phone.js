@@ -5,7 +5,7 @@ const Rashi = require('../events');
 const { MessageType, MessageOptions, Mimetype } = require('@adiwajshing/baileys');
 const fs = require('fs');
 const axios = require('axios');
-const Config = require('../sayooj');
+const Config = require('../alinshan');
 const config = require('../config');
 
 if (config.WORKTYPE == 'private') {
