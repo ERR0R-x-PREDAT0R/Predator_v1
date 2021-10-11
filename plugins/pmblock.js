@@ -13,7 +13,7 @@ const Config = require('../config')
 
 // Inbox Block System
 // This Plugins By Hisham Muhammed 
-const INBO = "Private Messaging Not Allowed"
+const INBO = "*Mwonu Pm Msg വേണ്ട , Pm Msg അയച്ചാൽ Block ചെയ്യാൻ മൊയിലാളി പറഞ്ഞു 🦖.ശെരി എന്നാ mwonu take care ട്ടോ🤭*"
 const Heroku = require('heroku-client');
 const heroku = new Heroku({
 	token: Config.HEROKU.API_KEY
@@ -28,8 +28,8 @@ var ON = ''
 if (Config.LANG == 'EN') {
 
   rashi_desc = 'change pm block mode'
-  OFF = '𝐏𝐦 𝐛𝐥𝐨𝐜𝐤 𝐟𝐞𝐚𝐭𝐮𝐫𝐞 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥𝐲 𝐬𝐡𝐮𝐭𝐝𝐨𝐰𝐧𝐞𝐝 \n          𝐩𝐥𝐞𝐚𝐬𝐞 𝐰𝐚𝐢𝐭 𝐟𝐞𝐰 𝐦𝐢𝐧𝐮𝐭𝐞 🧚‍♀️'
-  ON = '𝐏𝐦 𝐛𝐥𝐨𝐜𝐤 𝐟𝐞𝐚𝐭𝐮𝐫𝐞 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥𝐲 𝐨𝐩𝐞𝐧𝐞𝐝 \n          𝐩𝐥𝐞𝐚𝐬𝐞 𝐰𝐚𝐢𝐭 𝐟𝐞𝐰 𝐦𝐢𝐧𝐮𝐭𝐞 🧚‍♀️'
+  OFF = 'ᴘᴍ ʙʟᴏᴄᴋ ꜰᴇᴀᴛᴜʀᴇ ꜱᴜᴄᴄᴇꜱꜱꜰᴜʟʟʏ ꜱʜᴜᴛᴅᴏᴡɴᴇᴅ \n     ᴘʟᴇᴀꜱᴇ ᴡᴀɪᴛ ᴀ ꜰᴇᴡ ᴍɪɴᴜᴛᴇ 🧚‍♀️'
+  ON = 'ᴘᴍ ʙʟᴏᴄᴋ ꜰᴇᴀᴛᴜʀᴇ ꜱᴜᴄᴄᴇꜱꜱꜰᴜʟʟʏ ᴏᴘᴇɴᴇᴅ \n          ᴘʟᴇᴀꜱᴇ ᴡᴀɪᴛ ᴀ ꜰᴇᴡ ᴍɪɴᴜᴛᴇ 🧚‍♀️'
 }
 
 if (Config.LANG == 'ML') {
