@@ -240,10 +240,10 @@ if (conf.LANG == 'TR') {
 }
 if (conf.LANG == 'EN') {
     fulleva_dsc = 'Activates full functional Zara features. Turn your account into a ai chatbot!'
-    already_on = 'Angry Bird artificial intelligence is already fully functional.'
-    already_off = 'Angry Bird artificial intelligence is currently running semi-functional.'
-    succ_on = 'Angty Bird Opened Fully Functionally! Please wait a bit! ✅'
-    succ_off = 'Angry Bird Set to Semi-Functional! Please wait a bit! ☑️'
+    already_on = 'Predator artificial intelligence is already fully functional.'
+    already_off = 'Predator artificial intelligence is currently running semi-functional.'
+    succ_on = 'Predatord Opened Fully Functionally! Please wait a bit! ✅'
+    succ_off = 'Predator Set to Semi-Functional! Please wait a bit! ☑️'
 }
 if (conf.LANG == 'ML') {
     fulleva_dsc = 'പൂർണ്ണമായും പ്രവർത്തനക്ഷമമായ സവിശേഷതകൾ സജീവമാക്കുന്നു. നിങ്ങളുടെ അക്കൗണ്ട് ഒരു ചാറ്റ്ബോട്ടാക്കി മാറ്റുക!'
