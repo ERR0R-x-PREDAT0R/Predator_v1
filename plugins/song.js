@@ -7,7 +7,7 @@ Asena.addCommand({pattern: 'song', fromMe: false,dontAddCommandList: true}, (asy
 
     var r_text = new Array ();    
 r_text[0] = "\nNinak enthina ee song?\n";
-r_text[1] = "Enjoy with everyday Saturday with holiday-   Angry Bird";
+r_text[1] = "Enjoy with everyday Saturday with holiday";
 r_text[2] = "I lub U";
 r_text[3] = "Ninaku song venoda? 😊";
 r_text[4] = "Hello... Sugano?";
@@ -30,13 +30,13 @@ r_text[20] = "The coefficient's of linear expansions is the position of Haemoglo
 r_text[21] = "ninak mathiyaayille...😎\n\n";
 r_text[22] = "Kaanaan oru look illanney ullu… bhayankara budhiya\n\n ninak allatto enik";
 r_text[23] = "Ithalla ithinapparam chaadi kadannavananee njan";
-r_text[24] = "\nHi, njan Robot. Nee ethaada naaye";
+r_text[24] = "\nHi, njan Predator. Nee ethaa";
 r_text[25] = "\nPempillerey roattikoodey nadakkaan nee sammathikkilla, alley?... Da, neeyaanee alavaladi Shaji alley\n";
 r_text[26] = "\nAthu enne uddheshichanu… enne thanney uddheshichanu… enne maathram uddheshichaanu\n";
 r_text[27] = "\nBeedi undo saghave, oru theepetti edukkan\n";
 r_text[28] = "\nIppo sheriyakithara… ippo sheriyakithara…\n";
 r_text[29] = "\nBeedi undo saghave, oru theepetti edukkan?\n";
-r_text[30] = "Killadism never ends.\n       -Sayooj";    
+r_text[30] = "Killadism never ends.\n       -Predator";    
 var i = Math.floor(31*Math.random())
 
 await message.sendMessage(r_text[i]);
