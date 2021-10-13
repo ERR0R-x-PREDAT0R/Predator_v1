@@ -242,7 +242,7 @@ if (conf.LANG == 'EN') {
     fulleva_dsc = 'Activates full functional Zara features. Turn your account into a ai chatbot!'
     already_on = 'Predator artificial intelligence is already fully functional.'
     already_off = 'Predator artificial intelligence is currently running semi-functional.'
-    succ_on = 'Predatord Opened Fully Functionally! Please wait a bit! ✅'
+    succ_on = 'Predator Opened Fully Functionally! Please wait a bit! ✅'
     succ_off = 'Predator Set to Semi-Functional! Please wait a bit! ☑️'
 }
 if (conf.LANG == 'ML') {
