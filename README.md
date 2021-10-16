@@ -22,7 +22,7 @@ Simple User Bot For WhatsApp
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/ERR0R-x-PREDAT0R">ALINSHAN</a>
+PROJECT CREATED BY <a href="https://github.com/ERR0R-x-PREDAT0R">ALINSHAN</a>
     <br>
        | © |
         Reserved |
