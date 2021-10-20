@@ -13,7 +13,7 @@ const Config = require('../config')
 
 // Inbox Block System
 // This Plugins By Hisham Muhammed 
-const INBO = "*Mwonu Pm Msg വേണ്ട , Pm Msg അയച്ചാൽ Block ചെയ്യാൻ മൊയിലാളി പറഞ്ഞു 🦖.ശെരി എന്നാ mwonu take care ട്ടോ🤭*"
+const INBO = "Mwonu Pm Msg വേണ്ട , Pm Msg അയച്ചാൽ Block ചെയ്യാൻ മൊയിലാളി പറഞ്ഞു 🦖.ശെരി എന്നാ mwonu take care ട്ടോ🤭"
 const Heroku = require('heroku-client');
 const heroku = new Heroku({
 	token: Config.HEROKU.API_KEY
