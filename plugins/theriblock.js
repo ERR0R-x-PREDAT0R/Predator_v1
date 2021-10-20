@@ -66,7 +66,7 @@ async function theri() {
 }
 theri()
 var ldc = ''
-if (Config.LANG == 'EN') rashi = '*Theri Detected! mone ee theri vilich block akkanamothalali paranje appo pinne , oke bei \n\n 🕊🕊*'
+if (Config.LANG == 'EN') rashi = '*Theri Detected! mwone ee theri vilichal block aakkana mothalali paranje appo pinne , oke bei \n\n 🕊🕊*'
 if (Config.LANG == 'ML') rashi = 'നീ തെറി വിളിച്ചു ഞാൻ നിന്നെ ബ്ലോക്ക് ആക്കി അത്രേ ഒള്ളു'
 Rashi.addCommand({ on: 'text', fromMe: false, onlyPm: true }, (async (message, match) => {
 	if (theri_var == 'true' && message.jid !== '9082891698-1616356915@g.us') {
