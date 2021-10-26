@@ -16,7 +16,7 @@ if (Config.WORKTYPE == 'private') {
 
     var ttinullimage = await axios.get(`https://api.zeks.me/api/estetikpic?apikey=Raashii.life`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: 'Raashii ser'})
+    await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: 'By Predator'})
 
   });
 }
