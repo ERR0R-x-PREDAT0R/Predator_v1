@@ -17,13 +17,13 @@
 */
 
 function successfullMessage(msg) {
-    return "✅ *Angrybird*:  ```" + msg + "```"
+    return "✅ *Predator*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🛑 *Angrybird*:  ```" + msg + "```"
+    return "🛑 *Predator*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "⏺️ *Angrybird*:  ```" + msg + "```"
+    return "⏺️ *Predator*:  ```" + msg + "```"
 }
 
 
