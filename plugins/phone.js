@@ -15,7 +15,7 @@ Rashi.addCommand({pattern: 'number', fromMe: true, desc: 'Its send owner number'
             const Raashii = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n' 
             + 'FN:' + Config.Z_OWNER + '\n' //created afnanplk, please copy this with credit..
-            + 'ORG:Zara fam;\n' 
+            + 'ORG:Predator Bot;\n' 
             + 'TEL;type=CELL;type=VOICE;waid=' + Config.Z_NUMBER + ':' + Config.Z_NUMBER + ' \n'
             + 'END:VCARD'
 await message.client.sendMessage(message.jid, {displayname: "Owner", vcard: Raashii}, MessageType.contact);
@@ -34,7 +34,7 @@ else mode = 'ᴏᴡɴᴇʀ : '
             const Raashii = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n' 
             + 'FN:' + mode + Config.Z_OWNER + '\n' //created afnanplk, please copy this with credit..
-            + 'ORG:Zara fam;\n' 
+            + 'ORG:Predator Bot;\n' 
             + 'TEL;type=CELL;type=VOICE;waid=' + Config.Z_NUMBER + ':' + Config.Z_NUMBER + ' \n'
             + 'END:VCARD'
 await message.client.sendMessage(message.jid, {displayname: "Owner", vcard: Raashii}, MessageType.contact);
