@@ -259,7 +259,7 @@
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",
-            "NEED_LOCATION": "* Please write a location!*\n*Example:* ```.weather Bakü```",
+            "NEED_LOCATION": "* Please write a location!*\n*Example:* ```.weather kozhikode```",
             "LOCATION": "Location",
             "TEMP": "Temperature",
             "DESC": "Description",
@@ -283,7 +283,7 @@
         },
         "conventer": {
             "MP4TOAUDİO_DESC": "```Converting to Audio..```",
-            "MP4TOAUDİO_NEEDREPLY": "𝖮𝗁 𝖻𝗋𝗈 𝗒𝗈𝗎 𝗆𝗎𝗌𝗍 𝗋𝖾𝗉𝗅𝖺𝗒 𝗍𝗈 𝖺 𝗏𝗂𝖽𝖾𝗈 🥲",
+            "MP4TOAUDİO_NEEDREPLY": "𝖮𝗁 𝖻𝗋𝗈 𝗒𝗈𝗎 𝗆𝗎𝗌𝗍 𝗋𝖾𝗉𝗅𝖺𝗒 𝗍𝗈 𝖺 𝗏𝗂𝖽𝖾𝗈",
             "MP4TOAUDİO": "```Converting to Audio..```",
             "ANİM_STİCK": "Converting",
             "ANİMATE": "Converting",
@@ -582,7 +582,7 @@
         },
         "lyrics": {
             "LY_DESC": "Predator_v1 will find the lyrics of the song.",
-            "NEED": "𝖸𝗈𝗎 𝗆𝗎𝗌𝗍 𝗋𝖾𝗉𝗅𝗒 𝖺 𝗌𝗈𝗇𝗀 𝗇𝖺𝗆𝖾 🥴",
+            "NEED": "𝖸𝗈𝗎 𝗆𝗎𝗌𝗍 𝗋𝖾𝗉𝗅𝗒 𝖺 𝗌𝗈𝗇𝗀 𝗇𝖺𝗆𝖾",
             "SLY": "Lyrics:",
             "AUT": "Song Owner:",
             "BUL": "Founded Song:",
