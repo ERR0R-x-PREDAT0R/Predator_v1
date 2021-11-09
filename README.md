@@ -46,7 +46,7 @@ PROJECT CREATED BY <a href="https://github.com/ERR0R-x-PREDAT0R">ALINSHAN</a>
 
   ### Simple Method
   
-  [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ALINSHAN/Predator?v=1)
+  [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ALINSHAN/Predator-Bot?v=1)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ERR0R-x-PREDAT0R/Predator_v1)
      </div>
